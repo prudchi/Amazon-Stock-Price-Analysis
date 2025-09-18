@@ -55,7 +55,7 @@ Dataset Source: [Amazon Historical Stock Prices – Kaggle](https://www.kaggle.c
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 - **/data/** → raw dataset  
 - **/notebooks/** → Jupyter notebook with analysis  
 - **/outputs/** → charts and visualizations  
