@@ -42,9 +42,10 @@ Dataset Source: [Amazon Historical Stock Prices – Kaggle](https://www.kaggle.c
 
 ## Key Insights
 - Amazon stock shows clear long-term upward momentum with notable volatility spikes.
-- Certain years (e.g., [insert year from your analysis]) showed abnormal gains/losses tied to market events.
+- Volatility spiked during earlier years, indicating that as years progress, the Amazon stock keeps getting steadier.
+- Certain months (e.g., January, July, and October) showed abnormal gains, suggesting caution and opportunity during those months.
+- April and November show the highest average monthly returns, while February tends to underperform.
 - Moving averages provided useful signals for trend detection.
-- Volatility clustering was observed around [insert insights from your results].
 
 ---
 
